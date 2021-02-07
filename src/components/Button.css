@@ -1,0 +1,28 @@
+.btn-grey {
+    flex: 1;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-size: 20px;
+    border-style: solid;
+    border-color: #858693;
+    border-width: 1px;
+    cursor: pointer;
+    background-color: #e0e0e0;
+    color: #000000
+}
+.btn-orange {
+    flex: 1;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-size: 20px;
+    border-style: solid;
+    border-color: #858693;
+    border-width: 1px;
+    cursor: pointer;
+    background-color: #F39148;
+    color: #FFFFFF
+}
+
+
